@@ -1,6 +1,6 @@
 # Confinement of modes by disordered environments
 
-- [ ] Theory framework - quasicrystals/hyperuniformity/RMT/translating topological nonlinear phenomena to time domain in 2D systems(particularly light-matter states in large unit cells)
+- [ ] Theory framework - quasicrystals/hyperuniformity/RMT/translating topological nonlinear phenomena to time domain in 2D systems(particularly light-matter states in large unit cells) - Boundary between hyperuniform types results in confinement by methods discussed in topological graphs paper
 - [ ] Numerical methods for allowed modes in disordered system and lifetime/evolution of modes - C++
 - [ ] Visualizations
 
