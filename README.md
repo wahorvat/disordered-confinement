@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project offers a Julia based tool to study the localization of photoninc modes in disordered 2D materials. This repo conatins code for ...
+This project offers a Python based tool to study the localization of photoninc modes in disordered 2D materials. This repo conatins code for ...
 
 ## Installation
 
