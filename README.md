@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project offers a Python based tool to study the localization of photoninc modes in disordered 2D materials. This repo conatins code for ...
+This project offers a Python based tool to study the localization of photoninc modes in at the boundary between disordered 2D materials.
 
-## Installation
+<!--## Installation
 
 Requirements for running DisorderedConfinement are found in required_packages.txt
 
@@ -27,11 +27,6 @@ Articles:
 
 **Hyperuniform states of matter** ([paper](https://torquatocpanel.deptcpanel.princeton.edu/wp-content/uploads/2018/06/paper-401.pdf))
 
-## Bugs
-
-Please report any bugs that you find [here](https://github.com/wahorvat/disordered-confinement/issues).
-Or, even better, fork the repository on [GitHub](https://github.com/wahorvat/disordered-confinement)
-and create a pull request (PR).
 
 ## Citing DisorderedConfinement
 If DisorderedConfinement helps your research, we appreciate your citations. Here is the BibTeX entry:
@@ -42,4 +37,4 @@ If DisorderedConfinement helps your research, we appreciate your citations. Here
 	year         = 2023,
 	howpublished = {\url{https://github.com/wahorvat/disordered-confinement}}
 }
-```
+```-->
