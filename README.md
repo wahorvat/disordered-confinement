@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python study of the localization of photoninc modes in at the boundary between disordered 2D materials. Paritcular future connection to be made between TIs and gapless Hofstader TIs.
+This project is a Python study of the localization of photoninc modes in at the boundary between disordered 2D materials. TI simple model in some material... (Gapless Hofstader TIs kept out)
 
 <!--## Installation
 
