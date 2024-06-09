@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python study of the localization of photoninc modes in at the boundary between disordered 2D materials. TI simple model in some material...
+Localized photonic modes at the boundary between disordered 2D materials.
 
 <!--## Installation
 
